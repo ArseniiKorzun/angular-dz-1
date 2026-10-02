@@ -1,0 +1,29 @@
+.recipe {
+  background: #fff1f0;
+  border-left: 6px solid #c0392b;
+  border-radius: 8px;
+  padding: 20px 28px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+}
+
+h2,
+h3 {
+  color: #c0392b;
+}
+
+h2 {
+  margin-top: 0;
+}
+
+img {
+  width: 100%;
+  max-width: 500px;
+  max-height: 400px;
+  object-fit: cover;
+  border-radius: 8px;
+  display: block;
+}
+
+li {
+  margin-bottom: 6px;
+}

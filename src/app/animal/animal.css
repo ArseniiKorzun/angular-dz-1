@@ -1,0 +1,22 @@
+.animal {
+  background: #eaf6ff;
+  border-left: 6px solid #2a7fc1;
+  border-radius: 8px;
+  padding: 20px 28px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+}
+
+h2 {
+  color: #2a7fc1;
+  margin-top: 0;
+}
+
+img {
+  width: 100%;
+  max-width: 500px;
+  max-height: 400px;
+  object-fit: cover;
+  border-radius: 8px;
+  display: block;
+  margin-bottom: 12px;
+}
